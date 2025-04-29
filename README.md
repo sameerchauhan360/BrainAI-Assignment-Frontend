@@ -9,6 +9,9 @@ This is the frontend for the AI-Powered Mental Health Assessment & Recommendatio
 While React.js is preferred, Streamlit offers a fast and lightweight solution for prototyping data-driven apps — perfect for this use case where **usability and logic** matter more than complex visuals.
 
 ---
+## 🌐 Live Demo
+### 🔗 Try the App:
+👉 [BrainAI Frontend APP](https://brainai-assignment-frontend.onrender.com/)
 
 ## 👥 User Flow
 
