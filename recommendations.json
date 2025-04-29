@@ -1,0 +1,45 @@
+[
+    {
+        "status": "Normal",
+        "recommendations": [
+            "**Maintain healthy habits**: Continue practicing self-care, getting enough sleep, eating well, and exercising regularly.",
+            "**Stay connected**: Nurture your social connections with friends, family, and community.",
+            "**Engage in hobbies**: Pursue activities you enjoy and find fulfilling.",
+            "**Practice mindfulness**: Incorporate mindfulness or meditation to manage everyday stress.",
+            "**Set realistic goals**: Continue setting achievable goals to maintain a sense of accomplishment."
+        ]
+    },
+    {
+        "status": "Mild",
+        "recommendations": [
+            "**Increase self-care**: Pay extra attention to sleep, nutrition, and physical activity.",
+            "**Talk to someone**: Share your feelings with a trusted friend, family member, or partner.",
+            "**Stress management techniques**: Practice relaxation techniques like deep breathing, yoga, or meditation.",
+            "**Journaling**: Write down your thoughts and feelings to gain clarity.",
+            "**Consider light therapy (if applicable for seasonal patterns)**: Especially during darker months.",
+            "**Limit alcohol and caffeine**: These can sometimes worsen anxiety or disrupt sleep."
+        ]
+    },
+    {
+        "status": "Moderate",
+        "recommendations": [
+            "**Seek professional help**: Consider talking to a therapist, counselor, or doctor. Cognitive Behavioral Therapy (CBT) or other therapies can be very effective.",
+            "**Build a support system**: Actively reach out to supportive friends and family.",
+            "**Structured routine**: Establish a consistent daily schedule for meals, sleep, and activities.",
+            "**Psychoeducation**: Learn more about anxiety and depression symptoms and management strategies.",
+            "**Medication consultation**: Discuss potential benefits of medication with a healthcare provider if symptoms persist or interfere significantly with daily life.",
+            "**Support groups**: Connecting with others experiencing similar challenges can be helpful."
+        ]
+    },
+    {
+        "status": "Severe",
+        "recommendations": [
+            "**Urgent professional help**: Contact a mental health professional (therapist, psychiatrist) or your doctor immediately. If you are in crisis, call a helpline or go to the nearest emergency room.",
+            "**Medication evaluation**: A psychiatrist can assess if medication is necessary and appropriate.",
+            "**Intensive therapy**: Consider more frequent therapy sessions or specialized programs (e.g., intensive outpatient program).",
+            "**Involve loved ones**: Let trusted friends or family know what you're going through and how they can support you.",
+            "**Focus on safety**: If you have thoughts of harming yourself, reach out for help immediately (crisis hotline, emergency services).",
+            "**Simplify responsibilities**: Reduce workload or other commitments temporarily to focus on recovery."
+        ]
+    }
+]
